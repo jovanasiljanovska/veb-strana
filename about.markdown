@@ -1,0 +1,21 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+This is a website based on my personal life, my accomplishments, travels etc. I hope you have fun while reading about my life!
+<br>
+<br>
+#This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+<br>
+
+
+[jekyll-organization]: https://github.com/jekyll
