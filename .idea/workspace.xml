@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c2a7651-99f8-47a7-8e99-559dcaa39448" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/posts.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-06-25-fun-facts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-06-25-welcome-to-jekyll.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-06-26-places.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-07-03-trip.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/barnden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/berlin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/finki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ibiza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/newyork.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/orce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/paris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/turm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/wall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/zoo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/posts.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts.markdown" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RhaoboRUGlfjSRmrmzRlv9g3Bz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Administrator/my-site/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\my-site\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\my-site\_includes" />
+      <recent name="C:\Users\Administrator\my-site\_posts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c2a7651-99f8-47a7-8e99-559dcaa39448" name="Changes" comment="" />
+      <created>1687704943739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687704943739</updated>
+      <workItem from="1687704947485" duration="5832000" />
+      <workItem from="1687798511170" duration="4477000" />
+      <workItem from="1688418181453" duration="5377000" />
+      <workItem from="1688997572340" duration="7081000" />
+      <workItem from="1689018776781" duration="7829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
